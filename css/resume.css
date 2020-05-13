@@ -7,7 +7,7 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #868e96;
+  color: #7c8083;
 }
 
 @media (min-width: 992px) {
@@ -26,7 +26,7 @@ h6 {
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40;
+  color: #eedddd;
 }
 
 h1 {
@@ -52,6 +52,7 @@ p.lead {
   font-weight: 500;
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.5rem;
+  color: rgb(59, 216, 195);
 }
 
 .social-icons a {
@@ -59,7 +60,7 @@ p.lead {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #495057;
-  color: #fff !important;
+  color: rgba(255, 255, 255, 0.952) !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
@@ -72,7 +73,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: rgb(59, 216, 195);
 }
 
 .dev-icons {
@@ -80,17 +81,18 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: rgb(59, 216, 195);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
+   
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color:rgb(59, 216, 195);
 }
 
 @media (min-width: 992px) {
@@ -137,6 +139,7 @@ section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   max-width: 75rem;
+  background-color: rgb(43, 44, 44) !important;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -160,17 +163,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #18191a !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: rgb(59, 216, 195) !important;
 }
 
 a {
-  color: #BD5D38;
+  color: rgb(59, 216, 195);
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: rgb(59, 216, 195);
 }
