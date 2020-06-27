@@ -207,7 +207,7 @@ a:active {
   color: aliceblue;
 }
 .card-body:hover {
-  background-color: #18191a !important;
+  background-color: rgb(43, 44, 44) !important;
 }
 .card-body {
   background-color: #495057 !important;
