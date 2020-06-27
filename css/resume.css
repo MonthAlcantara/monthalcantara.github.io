@@ -9,7 +9,8 @@ body {
     'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
     'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #7c8083;
+  color: #adb5bd;
+  margin: 0;
 }
 
 @media (min-width: 992px) {
