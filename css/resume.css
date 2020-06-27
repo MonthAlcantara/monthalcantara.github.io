@@ -185,3 +185,69 @@ a:focus,
 a:active {
   color: rgb(59, 216, 195);
 }
+.comecaAqui {
+}
+
+.card {
+  width: 18rem;
+  margin: 20px;
+}
+
+.cardfooter {
+  color: #aaa;
+}
+
+.card-title {
+  color: #1abc9c;
+}
+
+.card-link,
+.number,
+.name {
+  color: aliceblue;
+}
+.card-body:hover {
+  background-color: #18191a !important;
+}
+.card-body {
+  background-color: #495057 !important;
+}
+.card-subtitle {
+  color: aliceblue !important;
+}
+.card-link:hover {
+  color: #1abc9c !important;
+}
+
+.card-title:hover {
+  color: aliceblue;
+}
+.v-ripple:hover {
+  background-color: aliceblue;
+  color: #1abc9c;
+}
+
+.v-ripple {
+  cursor: default;
+  height: 32px;
+  justify-content: space-between;
+  padding: 0 12px;
+  white-space: nowrap;
+  z-index: 1;
+  align-items: center;
+  border-radius: 28px;
+  display: inline-flex;
+  vertical-align: middle;
+  background-color: #1abc9c;
+  color: aliceblue;
+  font-size: 13px;
+  margin: 4px;
+  outline: none;
+  position: relative;
+}
+.imagemBloco {
+  max-width: 320px;
+  max-height: 205px;
+  width: auto;
+  height: auto;
+}
