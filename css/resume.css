@@ -17,6 +17,7 @@ body {
   body {
     padding-top: 0;
     padding-left: 17rem;
+    background-color: #ffffff33;
   }
 }
 
@@ -120,7 +121,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid #ffffff33;
   }
   #sideNav .navbar-collapse {
     display: flex;
