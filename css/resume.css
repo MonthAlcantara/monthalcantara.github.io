@@ -11,6 +11,8 @@ body {
   padding-top: 54px;
   color: #adb5bd;
   margin: 0;
+  width:auto ;
+  height: auto;
 }
 
 @media (min-width: 992px) {
