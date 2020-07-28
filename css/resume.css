@@ -11,15 +11,14 @@ body {
   padding-top: 54px;
   color: #adb5bd;
   margin: 0;
-  width:auto ;
-  height: auto;
+ 
 }
 
 @media (min-width: 992px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
-    background-color: #ffffff33;
+    background-color: #9b969633 !;
   }
 }
 
@@ -147,7 +146,6 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem;
   background-color: rgb(43, 44, 44) !important;
 }
 
