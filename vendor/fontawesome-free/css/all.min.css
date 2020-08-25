@@ -837,7 +837,7 @@
 }
 .fa-certificate:before {
   content: '\f0a3';
-  color: rgb(0, 255, 128);
+  color: #68c7ba;
 }
 .fa-chair:before {
   content: '\f6c0';
