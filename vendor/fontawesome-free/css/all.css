@@ -1087,6 +1087,7 @@ readers do not read off random characters that represent icons */
 
 .fa-certificate:before {
   content: '\f0a3';
+  
 }
 
 .fa-chair:before {
@@ -2492,6 +2493,7 @@ readers do not read off random characters that represent icons */
 
 .fa-graduation-cap:before {
   content: '\f19d';
+ 
 }
 
 .fa-gratipay:before {

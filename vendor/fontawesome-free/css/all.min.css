@@ -837,6 +837,7 @@
 }
 .fa-certificate:before {
   content: '\f0a3';
+  color: rgb(0, 255, 128);
 }
 .fa-chair:before {
   content: '\f6c0';
@@ -1892,6 +1893,7 @@
 }
 .fa-graduation-cap:before {
   content: '\f19d';
+  color:#178a7a;
 }
 .fa-gratipay:before {
   content: '\f184';
