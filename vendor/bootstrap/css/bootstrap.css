@@ -6614,6 +6614,7 @@ a.close.disabled {
 .carousel-item-next,
 .carousel-item-prev {
   display: block;
+  
 }
 
 .carousel-item-next:not(.carousel-item-left),
@@ -6669,7 +6670,7 @@ a.close.disabled {
   -ms-flex-pack: center;
   justify-content: center;
   width: 15%;
-  color: #fff;
+  color: #17a2b8;
   text-align: center;
   opacity: 0.5;
   transition: opacity 0.15s ease;
@@ -6686,7 +6687,7 @@ a.close.disabled {
 .carousel-control-prev:focus,
 .carousel-control-next:hover,
 .carousel-control-next:focus {
-  color: #fff;
+  color: #17a2b8;
   text-decoration: none;
   outline: 0;
   opacity: 0.9;
@@ -6702,10 +6703,12 @@ a.close.disabled {
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
+  color: yellow;
   display: inline-block;
   width: 20px;
   height: 20px;
   background: no-repeat 50% / 100% 100%;
+ 
 }
 
 .carousel-control-prev-icon {
@@ -6742,7 +6745,7 @@ a.close.disabled {
   margin-left: 3px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: #fff;
+  background-color: aqua;
   background-clip: padding-box;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
